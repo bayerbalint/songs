@@ -15,6 +15,7 @@ function echoHead(){
 function echoBodyStart(){
     echo '
     <body>
+    <p>asd</p>
     ';
 }
 
