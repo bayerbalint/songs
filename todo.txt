@@ -1,0 +1,8 @@
+the file paths can be a string of the file's location locally
+every img and mp3 will be local
+
+if the user uploads a file it will be saved on the users machine
+we have to check if the file path's in the database exist on the users machine every reload
+
+1. check if the file path from the database is in the "files" folder
+2. if not in the "files" folder, delete from the database
