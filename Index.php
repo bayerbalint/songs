@@ -3,8 +3,5 @@
 require_once "Html.php";
 require_once "Database.php";
 
-echoHead();
-echoBodyStart();
-echoBodyEnd();
-
+new Html();
 new Database();
