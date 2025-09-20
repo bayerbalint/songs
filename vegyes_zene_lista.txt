@@ -1,0 +1,12 @@
+Michael Jackson;Billie Jean;1983;Angol;Thriller;Michael Jackson
+Queen;Bohemian Rhapsody;1975;Angol;A Night at the Opera;Queen
+Eminem;Lose Yourself;2002;Angol;8 Mile (Soundtrack);Eminem
+Shakira;Waka Waka (This Time for Africa);2010;Angol/Szuahéli;Sale el Sol;Shakira ft. Freshlyground
+Beethoven;V. szimfónia;1808;Instrumentális;válogatás;különböző szimfonikus zenekarok
+The Beatles;Hey Jude;1968;Angol;single (később válogatások);The Beatles
+Republic;67-es út;1990;Magyar;Indul a mandula!;Republic
+Tankcsapda;Mennyország tourist;2003;Magyar;Élni vagy égni;Tankcsapda
+Omega;Gyöngyhajú lány;1969;Magyar;10 000 lépés;Omega
+EDDA Művek;Kör közepén;1984;Magyar;EDDA 4.;EDDA Művek
+Rúzsa Magdolna;Egyszer;2007;Magyar;Mágia;Rúzsa Magdolna
+Fekete Vonat;A város másik oldalán;1997;Magyar/Romani;A város másik oldalán;Fekete Vonat
