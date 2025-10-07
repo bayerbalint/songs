@@ -1,0 +1,11 @@
+3;Christian "Flake" Lorenz;1966;szintetizátor
+3;Christoph Schneider;1966;dob
+5;Isaac Holman;1991;ének és dob
+5;Laurie Vincent;1993;ének és gitár
+1;MC Isti;1984;vokál
+2;Mortvl Clvn;2023;remix
+3;Oliver Riedel;1971;basszus gitár
+3;Paul Landers;1964;gitár
+3;Richard Kruspe;1967;gitár
+4;Shakira;1977;vokál
+3;Till Lindemann;1963;vokál
