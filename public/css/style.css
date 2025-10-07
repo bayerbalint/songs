@@ -1,0 +1,67 @@
+body{
+    background-color: gray;
+    font-size: 3vh;
+    padding-top: 8vh;
+    color: white;
+}
+
+.navbar{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 6vh;
+    background-color:#14ba51;
+    color: black;
+    font-weight: bold;
+    font-size: 4vh;
+}
+
+.nav-list{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    height: inherit;
+}
+
+.nav-button{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 3vh;
+    cursor: pointer;
+}
+
+.artistImg, .albumImg, .bandImg{
+    height: 20vh;
+}
+
+.songContainer{
+    background-color: lightgray;
+    width: 30vw;
+    height: 40vh;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    border-radius: 2vw;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+.functionButtons{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8vh;
+}
+
+#songsContainer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+#audio{
+    width: 15vw;
+    height: 10vh;
+}
